@@ -3,7 +3,7 @@ A cool website to view daily nasa images.
 
 **Link to project:** https://dailynasaimages.netlify.app
 
-![alt tag](nasaapi.png)
+![alt tag](nasa screenshot.png)
 
 ## How It's Made:
 
