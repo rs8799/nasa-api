@@ -9,13 +9,13 @@ A cool website to view daily nasa images.
 
 **Tech used:** HTML, CSS, JavaScript, 
 
-Used nasa api and built a website around it to be able to display the images, date the image what taken and a description about the image. 
+Used NASA's API and built a website around it to be able to display the images, date the image was taken and a description about the image. I also made it so that you can choose a date other than today and see images from those days as well!
 
 ## Optimizations
 
 ## Lessons Learned:
 
-I learned a lot about how API's work as well as how to implement then in order to receive the data back to display in a browser. 
+I learned a lot about how API's work as well as how to implement them in order to receive the data back to display in a browser. 
 
 ## Examples:
 Take a look at these other projects I have in my own portfolio:
