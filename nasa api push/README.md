@@ -22,6 +22,8 @@ Take a look at these other projects I have in my own portfolio:
 
 **Jack the Balloon Twister:** https://github.com/rs8799/jacktheballoontwister
 
+**Sweet Vegan Baking by Mary:** https://github.com/rs8799/sweetveganbakingbymary
+
 **Elevation Bike Repair:** https://github.com/rs8799/elevation-bike-repair
 
 **Portfolio:** https://github.com/rs8799/ray-sanford-portfolio
